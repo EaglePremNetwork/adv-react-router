@@ -22,3 +22,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+#Snapshots
+Multi-Page-SPA-1.jpg
+Multi-Page-SPA-2.jpg
+Multi-Page-SPA-3.jpg
+Multi-Page-SPA-4.jpg
+Multi-Page-SPA-5.jpg
